@@ -35,13 +35,34 @@ Through my Games Development studies and project work, I have developed experien
 
 ## 📸 Project Showcase
 
-Screenshots and examples from my Final Major Project will be added here to show the development process and finished work.
+Below are examples of artwork and assets from my Final Major Project, Lights Out, showing elements created as part of the finished project.
+
+
+### Lights Out
+
+<img width="590" height="272" alt="Screenshot 2026-11-17 130417 Lights out" src="https://github.com/user-attachments/assets/7e9faf92-974c-47c7-880f-30227715b894" />
+
+### Character, Enemy & Collectible
+
+<img width="450" height="363" alt="Screenshot 2026-11-17 130537 Charecter enemy collectible" src="https://github.com/user-attachments/assets/8a1fd054-acc4-417d-9648-a7f8878b1224" />
+
+
+  ### Puzzle Catalyst
+
+  <img width="350" height="383" alt="Screenshot 2026-11-17 130452 Puzzle-catalyst" src="https://github.com/user-attachments/assets/19eb42db-ff17-4542-b5df-ade844f9f3a5" />
+
+  ### Level Hazards
+
+  <img width="250" height="376" alt="Screenshot 2026-11-17 132727" src="https://github.com/user-attachments/assets/616c07b3-f648-4071-bc9c-134cf97f1db0" />
+
+
+
 
 ---
 
 ## 🔗 View the Full Project
 
-My original Final Major Project portfolio contains further information about the development of my project and my work.
+My original Lights Out project portfolio contains further information about the development process, planning, research and final outcome of my Final Major Project.
 
 👉 [View my Final Major Project portfolio](https://akimbo75ty.wixsite.com/finallyefempe)
 
